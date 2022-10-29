@@ -4,7 +4,7 @@
 
 ### Hi, I'm Upul 👋
 
-I'm a machine learning architect who loves to design, develop, and deploy machine learning-powered products and services.
+I'm a **Machine Learning Architect** who loves to design, develop, and deploy machine learning-powered products and services.
 
 - 💻 Machine Learning Architect at [Airudi](https://airudi.com/en/)
 
