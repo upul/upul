@@ -15,8 +15,11 @@ I'm a machine learning architect who loves to design, develop, and deploy machin
 
 ### Personal Machine Learning Projects
 > **Behavioral Cloning**<br>In this project, a Deep Neural Network is used to clone the behavior of human drivers.<br>[![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/upul/Behavioral-Cloning)
-- xxx
-- xxx
+
+> **Aurora: Minimal Deep Learning Library**<br>Aurora is a minimal deep learning library written in Python, Cython, and C++ with the help of Numpy, CUDA, and cuDNN.<br>[![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/upul/Aurora)
+
+> **Segmentation of Roads Using Semantic Segmentation**<br>Semantic segmentation using a fully convolutional neural network for segmenting road sections. <br>[![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/upul/Semantic_Segmentation)
+
 
 <h2 align="center"> Let's Connect 🔥</h2>
 <div align="center">
