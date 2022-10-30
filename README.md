@@ -8,12 +8,12 @@ I'm a **Machine Learning Architect** who loves to design, develop, and deploy ma
 
 - 💻 Machine Learning Architect at [Airudi](https://airudi.com/en/)
 
-### Recent Machine Learning Projects 
+### Recent Projects 
 - xxx
 - xxx
 - xxx
 
-### Personal Machine Learning Projects
+### Personal Projects
 > **Behavioral Cloning**<br>In this project, a Deep Neural Network is used to clone the behavior of human drivers.<br>[![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/upul/Behavioral-Cloning)
 
 > **Aurora: Minimal Deep Learning Library**<br>Aurora is a minimal deep learning library written in Python, Cython, and C++ with the help of Numpy, CUDA, and cuDNN.<br>[![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/upul/Aurora)
