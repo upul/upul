@@ -9,7 +9,7 @@ I'm a **Machine Learning Architect** who loves to design, develop, and deploy ma
 - 💻 Machine Learning Architect at [Airudi](https://airudi.com/en/)
 
 ### Recent Projects 
-- xxx
+> **Workplace Accident Risk Assessment and Prevention Recommendation System**<br>Designed, developed, and deployed a chatbot for workforce accident prevention recommendation for a leading organization in Quebec Canada. [More Details](https://docs.google.com/presentation/d/1U6DXsf6cAOf3KiBWTC_qZ2Hn385qGwmG3kvGcE4y308/edit?usp=sharing)
 - xxx
 - xxx
 
