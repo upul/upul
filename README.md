@@ -10,8 +10,8 @@ I'm a **Machine Learning Architect** who loves to design, develop, and deploy ma
 
 ### Recent Projects 
 > **Workplace Accident Risk Assessment and Prevention Recommendation System**<br>Designed, developed, and deployed a chatbot for workforce accident prevention recommendation for a leading organization in Quebec Canada. [More Details](https://docs.google.com/presentation/d/1U6DXsf6cAOf3KiBWTC_qZ2Hn385qGwmG3kvGcE4y308/edit?usp=sharing)
-- xxx
-- xxx
+
+> **Maritime Workforce Prediction and Allocation**<br>Designed, implemented, and deployed machine learning models to predict and allocate workers for one of the Canadian ports. 
 
 ### Personal Projects
 > **Behavioral Cloning**<br>In this project, a Deep Neural Network is used to clone the behavior of human drivers.<br>[![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/upul/Behavioral-Cloning)
